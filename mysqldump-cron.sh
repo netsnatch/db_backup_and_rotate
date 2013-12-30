@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#source http://002.yaha.me/item/22728a58-c967-46d5-93eb-2649d684a9aa/
+
 MYSQL_USER="yourname"
 MYSQL_HOST="localhost"
 MYSQL_PASSWORD="yourpassword"
